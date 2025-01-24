@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center"> 
+  <img src="https://media.tenor.com/_iNTPDlgTgEAAAAi/coffee-bara-capybara.gif" alt="Capivara segurando xícara de café">
+</div>
 
-<!--
-**maripicolo/maripicolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 👋
+My name is Mariana and I'm a meteorologist 🌧️
 
-Here are some ideas to get you started:
+- 📝 Research topics: urban heat island, convective storms, high resolution atmospheric modeling, urban impacts
+- 📫 How to reach me: mariana.picolo@alumni.usp.br
+- ⚡ Fun fact: I like dinosaurs 🦖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### Toolset
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="40" height="40"/> 
+          
+
+
