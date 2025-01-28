@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://media.tenor.com/_iNTPDlgTgEAAAAi/coffee-bara-capybara.gif" alt="Capivara segurando xícara de café">
+  <img src="cover_github.jpg" width="150" alt="Totoro">
 </div>
 
 ## Hello 👋
